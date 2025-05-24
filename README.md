@@ -16,8 +16,6 @@ Here is a more comprehensive list of my skills!
 <div align="center">
   <img
     height=225
-    src="https://github-readme-stats.vercel.app/api?username=parikshit-sood&show_icons=true&bg_color=1c1c22&text_color=ffffff&icon_color=00ff99&title_color=00ff99&rank_icon=github&rank_color=00ff99&border_color=00e187"
+    src="https://github-readme-stats.vercel.app/api?username=parikshit-sood&show_icons=true&bg_color=45,00ff99,00ffff&text_color=1c1c22&icon_color=1c1c22&title_color=1c1c22&rank_icon=github&hide_border=true"
   />
-
-
 </div>
