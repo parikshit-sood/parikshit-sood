@@ -12,10 +12,7 @@ Here is a more comprehensive list of my skills!
 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<hr />
-<div align="center">
-  <img
-    height=225
-    src="https://github-readme-stats.vercel.app/api?username=parikshit-sood&show_icons=true&bg_color=45,00ff99,00ffff&text_color=1c1c22&icon_color=1c1c22&title_color=1c1c22&rank_icon=github&hide_border=true"
-  />
-</div>
+## Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=parikshit-sood&show_icons=true&bg_color=0,00ff99,00ffff&text_color=1c1c22&icon_color=1c1c22&title_color=1c1c22&rank_icon=github&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com?user=parikshit-sood&theme=neon-dark&background=0%2C00FFFF%2C00FF99&fire=1c1c22&ring=1c1c22&border=1c1c22&currStreakNum=1c1c22&sideNums=1c1c22&currStreakLabel=1c1c22&stroke=1c1c22&sideLabels=1c1c22&dates=1c1c22)
