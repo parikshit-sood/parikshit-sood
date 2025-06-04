@@ -15,4 +15,3 @@ Here is a more comprehensive list of my skills!
 ## Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=parikshit-sood&show_icons=true&bg_color=0,00ff99,00ffff&text_color=1c1c22&icon_color=1c1c22&title_color=1c1c22&rank_icon=github&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com?user=parikshit-sood&theme=neon-dark&background=0%2C00FF99%2C00FFFF&fire=1c1c22&ring=1c1c22&border=1c1c22&currStreakNum=1c1c22&sideNums=1c1c22&currStreakLabel=1c1c22&stroke=1c1c22&sideLabels=1c1c22&dates=1c1c22&hide_border=true)
