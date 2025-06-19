@@ -2,7 +2,7 @@
 
 Hello! I am a fourth year Computer Science student at UCLA. I am a passionate full stack developer and love to create software solutions for my clients. I am skilled in web app development and machine learning technologies. My tech stack includes ReactJS, Node.js, JavaScript, PostgreSQL, and Tailwind CSS. Currently, I am building a rating platform for teaching assistants at colleges to help create more transparency in the behavioral expectations of students and teaching assistants. Stay tuned for updates!
 
-See my pinned repositories below for my featured projects!
+Check out the pinned repositories on my profile for my featured projects!
 
 Here is a more comprehensive list of my skills!
 
